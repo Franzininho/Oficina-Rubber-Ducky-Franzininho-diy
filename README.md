@@ -44,7 +44,7 @@ Fábio Souza
 
 # Licença
 
-Este projeto está licenciado sob a licença MIT - consulte o arquivo [LICENSE.md](https://github.com/FBSeletronica/Oficina-Rubber-Ducky-Franzininho-diy/blob/master/LICENSE) para obter detalhes.
+Este projeto está licenciado sob a licença GNU General Public License v3.0 - consulte o arquivo [LICENSE.md](https://github.com/FBSeletronica/Oficina-Rubber-Ducky-Franzininho-diy/blob/master/LICENSE) para obter detalhes.
 
 
 
