@@ -1,4 +1,4 @@
-# Oficin Rubber Ducky Franzininho DIY
+# Oficina Rubber Ducky Franzininho DIY
 
 Materiais e referencias para a oficina de Rubber Ducky com a Franzininho DIY
 
