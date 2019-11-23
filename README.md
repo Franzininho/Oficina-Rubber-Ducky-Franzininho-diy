@@ -4,7 +4,7 @@ Materiais e referencias para a oficina de Rubber Ducky com a Franzininho DIY
 
 ## Links
 
-[Slides](goo.gl/Fh9wRg)
+[Slides](https://docs.google.com/presentation/d/e/2PACX-1vRYQ3z6iAYLZuhwZbYT8-0tXq3ZhVj-ZycFZBymj-PkzDc5EMCHqS1hnU5Zk34t8MBI1EtdTA0CL4Uv/pub?start=false&loop=false&delayms=3000)
 
 [digiQuack](https://github.com/CedArctic/digiQuack/releases/)
 
